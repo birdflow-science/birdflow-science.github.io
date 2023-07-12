@@ -28,10 +28,9 @@ BirdFlow is funded by the [US National Science Foundation](https://www.nsf.gov/)
 
 * Rohwer, Vanya G., Samantha Hagler, Benjamin M. Van Doren, Miguel Fuentes, and Shawn M. Billerman. "[Lower survival of hybrid grosbeaks, but not towhees, suggests a molt divide disfavors hybrids](https://doi.org/10.1093/evolut/qpad112)" Evolution, qpad112 (2023). https://doi.org/10.1093/evolut/qpad112
 
-## Media Coverage
+## Media
 
-* [Birdwatching Is Going High-Tech Thanks to This New Tool]
-(https://www.thedailybeast.com/birdwatching-is-going-high-tech-thanks-to-this-new-atool), The Daily Beast, Feb 1, 2023
+* [Birdwatching Is Going High-Tech Thanks to This New Tool](https://www.thedailybeast.com/birdwatching-is-going-high-tech-thanks-to-this-new-atool), The Daily Beast, Feb 1, 2023
 
 * [No one can predict exactly where birds go, but this mathematical model gets close](https://www.popsci.com/environment/machine-learning-bird-migration/), Popular Science, Feb 1, 2023
 
