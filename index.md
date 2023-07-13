@@ -32,6 +32,8 @@ BirdFlow is funded by the [US National Science Foundation](https://www.nsf.gov/)
 * [Birdwatching Is Going High-Tech Thanks to This New Tool](https://www.thedailybeast.com/birdwatching-is-going-high-tech-thanks-to-this-new-atool), The Daily Beast, Feb 1, 2023
 * [No one can predict exactly where birds go, but this mathematical model gets close](https://www.popsci.com/environment/machine-learning-bird-migration/), Popular Science, Feb 1, 2023
 * [An AI that sees bird futures](https://www.sierraclub.org/sierra/ai-bird-migration-prediction-ebird), Sierra Club, Mar 4, 2023
+* [BirdFlow AI “Connects the Dots” in Massive, Volunteer Database to Track Migratory Birds
+](https://www.psc.edu/birdflow-ai-tracks-migratory-birds/), Pittsburgh Supercomputing Center, May 10, 2023
 
 ## Software
 
