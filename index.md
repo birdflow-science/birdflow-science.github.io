@@ -25,19 +25,16 @@ BirdFlow is funded by the [US National Science Foundation](https://www.nsf.gov/)
 ## Publications
 
 * Fuentes, Miguel, Benjamin M. Van Doren, Daniel Fink, and Daniel Sheldon. "[BirdFlow: Learning seasonal bird movements from eBird data](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14052)" Methods in Ecology and Evolution 14, no. 3 (2023): 923-938. https://doi.org/10.1111/2041-210X.14052
-
 * Rohwer, Vanya G., Samantha Hagler, Benjamin M. Van Doren, Miguel Fuentes, and Shawn M. Billerman. "[Lower survival of hybrid grosbeaks, but not towhees, suggests a molt divide disfavors hybrids](https://doi.org/10.1093/evolut/qpad112)" Evolution, qpad112 (2023). https://doi.org/10.1093/evolut/qpad112
 
 ## Media
 
 * [Birdwatching Is Going High-Tech Thanks to This New Tool](https://www.thedailybeast.com/birdwatching-is-going-high-tech-thanks-to-this-new-atool), The Daily Beast, Feb 1, 2023
-
 * [No one can predict exactly where birds go, but this mathematical model gets close](https://www.popsci.com/environment/machine-learning-bird-migration/), Popular Science, Feb 1, 2023
-
 * [An AI that sees bird futures](https://www.sierraclub.org/sierra/ai-bird-migration-prediction-ebird), Sierra Club, Mar 4, 2023
 
 ## Software
 
-* [BirdFlowR](https://github.com/birdflow-science/BirdFlowR) R Package for using BirdFlow models, [documentation](https://birdflow-science.github.io/BirdFlowR/).
-* [BirdFlowPy](https://github.com/birdflow-science/BirdFlowPy) Python software for tting models.
-* [BirdFlow Model Collection](https://birdflow-science.s3.amazonaws.com/collection/index.html) Models for use with BirdFlowR.
+* [BirdFlowR](https://github.com/birdflow-science/BirdFlowR): R Package for using BirdFlow models ([documentation](https://birdflow-science.github.io/BirdFlowR/)).
+* [BirdFlowPy](https://github.com/birdflow-science/BirdFlowPy): Python software for fitting models.
+* [BirdFlow Model Collection](https://birdflow-science.s3.amazonaws.com/collection/index.html): Models for use with BirdFlowR.
