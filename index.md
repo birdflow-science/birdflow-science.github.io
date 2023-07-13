@@ -35,4 +35,9 @@ BirdFlow is funded by the [US National Science Foundation](https://www.nsf.gov/)
 * [No one can predict exactly where birds go, but this mathematical model gets close](https://www.popsci.com/environment/machine-learning-bird-migration/), Popular Science, Feb 1, 2023
 
 * [An AI that sees bird futures](https://www.sierraclub.org/sierra/ai-bird-migration-prediction-ebird), Sierra Club, Mar 4, 2023
- 
+
+## Software
+
+* [BirdFlowR](https://github.com/birdflow-science/BirdFlowR) R Package for using BirdFlow models, [documentation](https://birdflow-science.github.io/BirdFlowR/).
+* [BirdFlowPy](https://github.com/birdflow-science/BirdFlowPy) Python software for tting models.
+* [BirdFlow Model Collection](https://birdflow-science.s3.amazonaws.com/collection/index.html) Models for use with BirdFlowR.
