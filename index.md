@@ -12,7 +12,7 @@ BirdFlow is a joint project between the [University of Massachusetts Amherst](ht
 * [Adriaan Dokter](https://adriaandokter.com), Cornell (Co-PI)
 * [Andrew Farnsworth](https://www.birds.cornell.edu/home/staff/andrew-farnsworth/), Cornell (Co-PI)
 * [Daniel Fink](https://www.birds.cornell.edu/home/staff/daniel-fink/), Cornell (Senior Personnel)
-* [Benjamin Van Doren](https://bvandoren.com/), Cornell (Postdoctoral Associate)
+* [Benjamin Van Doren](https://migrationbiology.org), University of Illinois at Urbana-Champaign (Assistant Professor)
 * [Miguel Fuentes](https://www.linkedin.com/in/miguel-fuentes-28679980/), UMass (Graduate Research Assistant)
 * [Ethan Plunkett](https://github.com/ethanplunkett), UMass (Software Lead)
 * [Dave Slager](https://slager.github.io/), Cornell (Postdoctoral Associate)
