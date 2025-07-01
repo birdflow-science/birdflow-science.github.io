@@ -16,6 +16,7 @@ BirdFlow is a joint project between the [University of Massachusetts Amherst](ht
 * [Miguel Fuentes](https://www.linkedin.com/in/miguel-fuentes-28679980/), UMass (Graduate Research Assistant)
 * [Ethan Plunkett](https://github.com/ethanplunkett), UMass (Software Lead)
 * [Dave Slager](https://slager.github.io/), Cornell (Postdoctoral Associate)
+* [Yuting Deng](https://scholar.google.com/citations?user=AVA8n4AAAAAJ&hl=en&oi=sra), Cornell (Postdoctoral Associate)
 
 ## Funding
 
