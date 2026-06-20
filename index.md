@@ -27,16 +27,21 @@ BirdFlow is funded by the [US National Science Foundation](https://www.nsf.gov/)
 
 ## Publications
 
-* Fuentes, Miguel, Benjamin M. Van Doren, Daniel Fink, and Daniel Sheldon. "[BirdFlow: Learning seasonal bird movements from eBird data](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14052)" Methods in Ecology and Evolution 14, no. 3 (2023): 923-938. https://doi.org/10.1111/2041-210X.14052
+
+* Ethan Plunkett, Yuting Deng, David L. Slager, Miguel Fuentes, Yangkang Chen, Benjamin M. Van Doren, Adriaan M. Dokter, Daniel Sheldon. "[Novel Estimates of Bird Migration Traffic at the Continental Scale Using Participatory Science Data](https://doi.org/10.1111/geb.70236)", Global Ecology and Biogeography (2026).
+* Yangkang Chen, David L Slager, Ethan Plunkett, Miguel Fuentes, Yuting Deng, Stuart A Mackenzie, Lucas E Berrigan, Daniel Fink, Daniel Sheldon, Benjamin M Van Doren, Adriaan M Dokter. "[Population-level migration modeling of North America’s birds through data integration with BirdFlow](https://doi.org/10.1186/s40462-026-00651-z)", Movement Ecology (2026).
+* Miguel Fuentes, Jacob Epstein, Ethan Plunkett, Yankgang Chen, Yuting Deng, David L. Slager, Adriaan Dokter, Benjamin Van Doren, Daniel Sheldon. "Learning Bird Migration Models from Marginals with Site Fidelity and Long-Range Dependencies". ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS 2026)
+* Miguel Fuentes, Benjamin M. Van Doren, Daniel Fink, and Daniel Sheldon. "[BirdFlow: Learning seasonal bird movements from eBird data](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14052)" Methods in Ecology and Evolution 14, no. 3 (2023): 923-938. https://doi.org/10.1111/2041-210X.14052
 * Rohwer, Vanya G., Samantha Hagler, Benjamin M. Van Doren, Miguel Fuentes, and Shawn M. Billerman. "[Lower survival of hybrid grosbeaks, but not towhees, suggests a molt divide disfavors hybrids](https://doi.org/10.1093/evolut/qpad112)" Evolution, qpad112 (2023). https://doi.org/10.1093/evolut/qpad112
 
 ## Media
 
-* [Birdwatching Is Going High-Tech Thanks to This New Tool](https://www.thedailybeast.com/birdwatching-is-going-high-tech-thanks-to-this-new-atool), The Daily Beast, Feb 1, 2023
-* [No one can predict exactly where birds go, but this mathematical model gets close](https://www.popsci.com/environment/machine-learning-bird-migration/), Popular Science, Feb 1, 2023
-* [An AI that sees bird futures](https://www.sierraclub.org/sierra/ai-bird-migration-prediction-ebird), Sierra Club, Mar 4, 2023
+* [New Methods Make Tracking Individual Species During Migration Possible](https://birdcast.org/new-methods-make-tracking-individual-birds-during-migration-possible/), BirdCast, June 18, 2026 
 * [BirdFlow AI “Connects the Dots” in Massive, Volunteer Database to Track Migratory Birds
 ](https://www.psc.edu/birdflow-ai-tracks-migratory-birds/), Pittsburgh Supercomputing Center, May 10, 2023
+* [An AI that sees bird futures](https://www.sierraclub.org/sierra/ai-bird-migration-prediction-ebird), Sierra Club, Mar 4, 2023
+* [Birdwatching Is Going High-Tech Thanks to This New Tool](https://www.thedailybeast.com/birdwatching-is-going-high-tech-thanks-to-this-new-atool), The Daily Beast, Feb 1, 2023
+* [No one can predict exactly where birds go, but this mathematical model gets close](https://www.popsci.com/environment/machine-learning-bird-migration/), Popular Science, Feb 1, 2023
 
 ## Software
 
