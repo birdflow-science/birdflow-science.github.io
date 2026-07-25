@@ -47,4 +47,4 @@ BirdFlow is funded by the [US National Science Foundation](https://www.nsf.gov/)
 
 * [BirdFlowR](https://github.com/birdflow-science/BirdFlowR): R Package for using BirdFlow models ([documentation](https://birdflow-science.github.io/BirdFlowR/)).
 * [BirdFlowPy](https://github.com/birdflow-science/BirdFlowPy): Python software for fitting models.
-* [BirdFlow Model Collection](https://birdflow-science.s3.amazonaws.com/collection/index.html): Models for use with BirdFlowR.
+* [BirdFlow Model Collection](https://birdflow-science.s3.amazonaws.com/2026/index.html): Models for use with BirdFlowR.
